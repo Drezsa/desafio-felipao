@@ -1,3 +1,4 @@
+// Escrevendo classes de um jogo
 class Heroi {
     constructor(nome, idade, tipo){
         this.nome = nome;
